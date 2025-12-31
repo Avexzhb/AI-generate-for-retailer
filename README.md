@@ -31,3 +31,7 @@ Prompt: Top-down perspective, high-end commercial food editorial photography. A 
 Mixed Fruit
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/8a3a59aa-ec5b-4d6d-8c83-601bcca1ed7d" />
 Prompt: Top-down perspective, high-end commercial food editorial photography. A delicate mixed fruits is elegantly placed on a minimalist, square, light green transparent glass plate. A small bamboo pick rests beside it. A cup of Japanese Mocha on the side. The background is a clean, pure cream-white with professional negative space. LEFT SIDE: Artistic layout with vertical black sans-serif typography, featuring the text "Mixed Fruit" in one line and price "$8.99" in a clear, legible fashion. TOP RIGHT: A tiny, minimalist square stamp logo with the red characters "赤岛". Professional studio softbox lighting, realistic soft shadows, 16:9 aspect ratio, premium textured paper background. The overall aesthetic is ethereal, Zen-inspired, and ultra-sophisticated.
+
+Sashimi (show the Kanji right, prompt in Chinese)
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/770c4600-58cc-495d-97a6-66913a7a155c" />
+Prompt:一张高角度商业美食摄影照片，展示了[三片三文鱼生鱼片和三片吞拿鱼生鱼片]盛放在极简风格的绿色透明玻璃盘中，配有一小玻璃碗酱油和一碗芥末。旁边放着两只筷子，背景为纯净的奶油米白色，留有充足的留白。左侧叠加了时尚的黑色无衬线字体排版，简单介绍了菜品名称[Sashimi]、价格$19.99和搭配说明。右上角为刚才提取的赤岛小Logo。采用柔和的摄影棚布光，逼真的柔和阴影，具有时尚杂志的编辑风格。该设计以优质纸张背景填满整个 16:9 画面，采用大师级平面设计，配有精致的日式排版、极其克制的植物图案和精致优雅的光线，营造出一种空灵、奢华、精致的氛围，具有最大的精致感和考究感
