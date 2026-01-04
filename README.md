@@ -39,7 +39,7 @@ Sashimi (show the Kanji right, prompt in Chinese)
 4.Hand-Drawn City Map
 
 <img width="572" height="1024" alt="image" src="https://github.com/user-attachments/assets/ac2cdedf-67ec-4b8f-80ec-5a85ead47e6a" />
-<div align="left"> 
+<div align="left";style="width: 100%; height: 300px;"> 
 Prompt: 请为我创作一幅【上海】的手绘风格旅游攻略地图，要求如下：
 
 ## 一、前期调研（必须执行）
