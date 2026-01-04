@@ -121,6 +121,7 @@ Sashimi (show the Kanji right, prompt in Chinese)
 </p></div>
 
 5.Hand-Painted City Specialty Crafts
+
 <img width="572" height="1024" alt="image" src="https://github.com/user-attachments/assets/473e2315-1314-413c-8e05-71e10529001e" />
 <div align="left";style="width: 100%; height: 200px; overflow: auto; border: 1px solid #ccc; padding: 10px;"><p>手绘特产工艺图 · 万能关键词模板
 1. 核心视觉风格 (Visual Style)
