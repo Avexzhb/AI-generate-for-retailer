@@ -40,7 +40,7 @@ Sashimi (show the Kanji right, prompt in Chinese)
 
 <img width="572" height="1024" alt="image" src="https://github.com/user-attachments/assets/ac2cdedf-67ec-4b8f-80ec-5a85ead47e6a" />
 <div align="left";style="width: 100%; height: 200px; overflow: auto; border: 1px solid #ccc; padding: 10px;"> 
-Prompt: 请为我创作一幅【上海】的手绘风格旅游攻略地图，要求如下：
+<p>Prompt: 请为我创作一幅【上海】的手绘风格旅游攻略地图，要求如下：
 
 ## 一、前期调研（必须执行）
 1. 搜索【上海】的最新旅游攻略、热门景点、特色美食
@@ -118,4 +118,4 @@ Prompt: 请为我创作一幅【上海】的手绘风格旅游攻略地图，要
 - 高清图片
 - 可打印版本
 - 9:16
-</div>
+</p></div>
