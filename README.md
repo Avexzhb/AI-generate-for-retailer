@@ -119,3 +119,30 @@ Sashimi (show the Kanji right, prompt in Chinese)
 - 可打印版本
 - 9:16
 </p></div>
+
+5.Hand-Painted City Specialty Crafts
+<img width="572" height="1024" alt="image" src="https://github.com/user-attachments/assets/473e2315-1314-413c-8e05-71e10529001e" />
+<div align="left";style="width: 100%; height: 200px; overflow: auto; border: 1px solid #ccc; padding: 10px;"><p>手绘特产工艺图 · 万能关键词模板
+1. 核心视觉风格 (Visual Style)
+关键词： Warm hand-drawn illustration, watercolor and ink wash style, bright yet nostalgic colors, textured paper background, retro film aesthetic, soft lighting. 效果： 确保画面呈现出那种治愈、文艺、像电影胶片一样的复古手绘感。
+
+2. 布局与流线 (Layout & Flow)
+关键词： S-shaped sequential layout, dashed line arrows connecting nodes, S-curve workflow, clean and organized composition. 效果： 强制 AI 按照“S”型流线排列步骤，并用带箭头的虚线连接，确保流程一目了然。
+
+3. 文字与标题要求 (Typography & Labels)
+关键词： Main title [特产名称] in top-left corner, bold artistic font, vertical Cursive calligraphy poetry on the side, step-by-step labels with icons. 效果： 规定标题位置，并强调“草书竖排诗词”的艺术表现。
+
+4. 装饰性背景 (Background & Patterns)
+关键词： Subtle auspicious cloud patterns in background, local traditional motifs (like Cantonese tiles or floral borders), elegant and airy space. 效果： 解决背景单调问题，增加画面层次感和地方特色。
+
+直接套用这个逻辑（以**“西湖龙井”**为例）：
+
+特产名称： 西湖龙井
+
+色调设定： 嫩绿色、茶褐色、淡米色
+
+工艺节点： 1.采摘 -> 2.摊青 -> 3.杀青 -> 4.回潮 -> 5.辉锅
+
+诗词抓取： “欲把西湖比西子，从来佳茗似佳人。”
+
+装饰元素： 杭州西湖垂柳纹、断桥剪影、淡墨祥云</p></div>
