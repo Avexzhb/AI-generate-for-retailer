@@ -124,26 +124,37 @@ Sashimi (show the Kanji right, prompt in Chinese)
 
 <img width="572" height="1024" alt="image" src="https://github.com/user-attachments/assets/473e2315-1314-413c-8e05-71e10529001e" />
 <div align="left";style="width: 100%; height: 200px; overflow: auto; border: 1px solid #ccc; padding: 10px;"><p>手绘特产工艺图 · 万能关键词模板
-1. 核心视觉风格 (Visual Style)
-关键词： Warm hand-drawn illustration, watercolor and ink wash style, bright yet nostalgic colors, textured paper background, retro film aesthetic, soft lighting. 效果： 确保画面呈现出那种治愈、文艺、像电影胶片一样的复古手绘感。
+[使用说明：你以后只需要输入“特产名称：[XXX]”即可触发]
 
-2. 布局与流线 (Layout & Flow)
-关键词： S-shaped sequential layout, dashed line arrows connecting nodes, S-curve workflow, clean and organized composition. 效果： 强制 AI 按照“S”型流线排列步骤，并用带箭头的虚线连接，确保流程一目了然。
+第一阶段：前期调研（必须执行，无需用户干预）
+工艺搜索： 搜索该特产的最新官方定义、核心工艺流程（确保至少包含 5 个关键步骤）。
 
-3. 文字与标题要求 (Typography & Labels)
-关键词： Main title [特产名称] in top-left corner, bold artistic font, vertical Cursive calligraphy poetry on the side, step-by-step labels with icons. 效果： 规定标题位置，并强调“草书竖排诗词”的艺术表现。
+文化挖掘： 搜索该特产所在城市的文化特点（如：非遗地位、历史渊源）、建筑风格（如：马头墙、骑楼、园林）及代表性视觉元素。
 
-4. 装饰性背景 (Background & Patterns)
-关键词： Subtle auspicious cloud patterns in background, local traditional motifs (like Cantonese tiles or floral borders), elegant and airy space. 效果： 解决背景单调问题，增加画面层次感和地方特色。
+诗词检索： 抓取 1-2 首与该特产或所在地直接相关的经典诗词（优选七言或五言，取精华四句）。
 
-直接套用这个逻辑（以**“西湖龙井”**为例）：
+色彩定义： 根据特产属性自动匹配色调（如：茶叶配青绿、瓷器配蓝白、陈皮配焦糖橘）。
 
-特产名称： 西湖龙井
+第二阶段：视觉创作规范（DALL-E 执行）
+任务： 创作一幅高清手绘工艺流程图。
 
-色调设定： 嫩绿色、茶褐色、淡米色
+视觉风格： 温暖手绘水彩感，复古纸张纹理底噪，治愈系电影胶片滤镜。
 
-工艺节点： 1.采摘 -> 2.摊青 -> 3.杀青 -> 4.回潮 -> 5.辉锅
+布局逻辑： * S型流线： 5个工艺节点呈“S”型由上至下分布。
 
-诗词抓取： “欲把西湖比西子，从来佳茗似佳人。”
+原子化绑定： 每个节点必须包含：[粗体数字编号] + [精致手绘插图] + [中文工艺名称] + [英文对照]。这四元素必须紧密排列，作为一个整体块移动。
 
-装饰元素： 杭州西湖垂柳纹、断桥剪影、淡墨祥云</p></div>
+逻辑指向： 用虚线小箭头按顺序连接节点，箭头必须从上一步指向下一步。
+
+文字排版：
+
+标题： 左上角醒目艺术字 “[特产名称]”。
+
+书法： 在画面侧边或留白处，以草书竖排方式呈现调研得出的四句诗词。
+
+背景细节： 融入调研所得的城市特色纹样（如：地方花砖、古建剪影）以及淡淡的祥云图案，填补背景空白。
+
+第三阶段：最终审核逻辑
+核对： 确保数字顺序（1,2,3,4,5）与工艺逻辑完全一致。
+
+对齐： 检查所有图文是否一一对应，严禁出现“图 A 配 文 B”的错误。</p></div>
