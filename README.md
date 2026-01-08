@@ -1,7 +1,7 @@
 # AI-generate-for-
 
 古韵画境
-https://github.com/Avexzhb/Hand-Drawn-Map
+(https://github.com/Avexzhb/GuYun-AI-Art)
 
 1. City temperature pics
    
