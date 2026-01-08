@@ -2,6 +2,7 @@
 
 古韵画境
 (https://github.com/Avexzhb/GuYun-AI-Art)
+Web(https://famous-crostata-72ef20.netlify.app/)
 
 1. City temperature pics
    
