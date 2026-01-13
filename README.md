@@ -4,6 +4,8 @@
 (https://github.com/Avexzhb/GuYun-AI-Art)
 Web （https://gu-yun-ai-art.vercel.app ）
 
+OOTD(new) https://outfit-of-the-day-74103568730.us-west1.run.app/
+
 1. City temperature pics
    
 ![SF](https://github.com/user-attachments/assets/4ed0e317-1184-4ca9-85b8-404f9f9de95b)
